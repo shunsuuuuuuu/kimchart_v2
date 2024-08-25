@@ -1,1 +1,1 @@
-web: python dash_kimchart.py 
+web: gunicorn app:server
